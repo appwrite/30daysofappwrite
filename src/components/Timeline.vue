@@ -27,7 +27,7 @@
             rel="noopener"
             class="event-headline"
           >
-            <span class="event-title">{{ event.title }}</span>
+            <h2 class="event-title">{{ event.title }}</h2>
           </component>
         </div>
         <div v-if="event.description" class="event-description">
@@ -83,6 +83,7 @@
 .event-headline {
   @apply ml-6;
   @apply mt-3;
+  @apply text-font;
 }
 .event-title {
   @apply font-bold;
@@ -99,6 +100,10 @@
   @apply ml-20;
   @apply text-sm;
   @apply text-gray-400;
+}
+a.event-headline {
+  @apply text-pink-400;
+  @apply hover:text-pink-500;
 }
 a {
   @apply text-pink-400;

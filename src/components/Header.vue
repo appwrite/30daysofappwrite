@@ -1,6 +1,6 @@
 <template>
   <header class="flex items-center justify-between px-6 py-8">
-    <a href="">
+    <a href="" class="flex flex-col items-center justify-center">
       <svg
         height="30"
         viewBox="0 0 956 170"

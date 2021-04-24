@@ -55,6 +55,6 @@ a {
   @apply text-gray-400;
 }
 a:hover {
-  @apply text-gray-600;
+  @apply text-gray-500;
 }
 </style>

@@ -4,7 +4,11 @@ module.exports = {
     container: {
       center: true,
     },
-    extend: {},
+    extend: {
+      colors: {
+        font: "#40404c",
+      },
+    },
     fontFamily: {
       sans: ["Poppins", "sans-serif"],
     },

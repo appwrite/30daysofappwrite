@@ -10,6 +10,12 @@
   </div>
 </template>
 
+<style>
+h1 {
+  @apply text-font;
+}
+</style>
+
 <script setup>
 import Header from "./components/Header.vue";
 import HelloWorld from "./components/HelloWorld.vue";
