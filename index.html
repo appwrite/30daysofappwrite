@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>30 Days of Appwrite - Appwrite</title>
+    <meta name="description" content="30 Days of Appwrite" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      async
+      src="https://platform.twitter.com/widgets.js"
+      charset="utf-8"
+    ></script>
+  </head>
+  <body class="text-gray-800 font-body">
+    <main id="app" class="container max-w-5xl"></main>
+    <script type="module" src="/src/main.js"></script>
+    <script>
+      window.onload = function () {
+        var elements = document.querySelectorAll(".twitter-card");
+        Array.prototype.forEach.call(elements, function (el, i) {
+          var id = el.getAttribute("tweetID");
+          twttr.widgets
+            .createTweet(id, el, {
+              conversation: "none", // or all
+              cards: "hidden", // or visible
+              linkColor: "#cc0000", // default is blue
+              theme: "light", // or dark
+            })
+            .then(function (el) {});
+        });
+      };
+    </script>
+  </body>
+</html>
