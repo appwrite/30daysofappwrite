@@ -3,12 +3,11 @@
     <Logo />
     <h1 class="mt-4 text-4xl font-bold text-center">30 Days of Appwrite</h1>
     <p class="max-w-3xl mt-4 text-center text-gray-500 text-md md:text-lg">
-      Work towards becoming a better developer by going through the awesome
-      resources that we've compiled for you. This covers all the basic and
-      advanced features of
-      <a href="https://appwrite.io" target="_blank" rel="noopener">Appwrite</a>
-      that you need, to build your next app. Take advantage of the amazing
-      content out there for free, set your right mindset and get going!
+      #30DaysOfAppwrite is a month long event focussed at giving developers a 
+      walkthrough of all of <a href="https://appwrite.io" target="_blank" rel="noopener">Appwrite's</a> features, starting from 
+      the basics to more advanced features like Cloud Functions! Alongside, we will also be building a fully featured 
+      Medium Clone to demonstrate how these concepts can be applied when building a real world app. 
+      We also have some exciting prizes for developers who follow along with us!
     </p>
     <div
       class="flex flex-col items-center justify-center mt-8 space-y-4 md:space-x-6 md:space-y-0 md:flex-row"
