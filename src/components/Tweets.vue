@@ -1,5 +1,5 @@
 <template>
-  <h1 class="flex items-center mx-6 mt-24 mb-8 text-base font-bold md:text-4xl">
+  <h1 class="flex items-center mx-6 mt-24 mb-8 text-lg font-bold md:text-4xl">
     🤝 Join
     <a
       href="https://twitter.com/search?q=%2330DaysofAppwrite"
@@ -9,10 +9,8 @@
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        height="32"
-        width="32"
         viewBox="0 0 512 512"
-        class="mx-4"
+        class="w-4 h-4 mx-4 md:w-8 md:h-8"
       >
         <path
           fill="currentColor"
