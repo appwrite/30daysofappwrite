@@ -3,7 +3,7 @@ export default [
     date: "1 May 2021",
     title: "Pilot",
     description: "What is Appwrite? What is #30DaysofAppwrite?",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-4hh",
   },
   {
     date: "2 May 2021",
