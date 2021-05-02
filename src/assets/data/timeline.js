@@ -9,7 +9,7 @@ export default [
     date: "2 May 2021",
     title: "Installation",
     description: "Learn to set up Appwrite on any machine of your choice.",
-    link: "",
+    link: "https://dev.to/appwrite/installing-appwrite-366o",
   },
   {
     date: "3 May 2021",
