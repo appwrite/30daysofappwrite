@@ -16,7 +16,7 @@ export default [
     title: "Appwrite’s building blocks",
     description:
       "Learn about the different microservices that Appwrite uses under the hood.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-s-building-blocks-1936",
   },
   {
     date: "4 May 2021",
