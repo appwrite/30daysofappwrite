@@ -20,10 +20,10 @@ export default [
   },
   {
     date: "4 May 2021",
-    title: "Appwrite Console",
+    title: "Appwrite Dashboard",
     description:
       "Manage your Appwrite data with our dark-mode-friendly dashboard.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-dashboard-15cc",
   },
   {
     date: "5 May 2021",
