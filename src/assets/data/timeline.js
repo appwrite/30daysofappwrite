@@ -29,7 +29,7 @@ export default [
     date: "5 May 2021",
     title: "Your first request",
     description: "Take your first steps with Flutter or web apps.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-your-first-request-4oco",
   },
   {
     date: "6 May 2021",
