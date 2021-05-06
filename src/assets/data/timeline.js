@@ -35,7 +35,7 @@ export default [
     date: "6 May 2021",
     title: "SSL Certificates",
     description: "SSL can be a bummer - here are some tips.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-ssl-certificates-c08",
   },
   {
     date: "7 May 2021",
