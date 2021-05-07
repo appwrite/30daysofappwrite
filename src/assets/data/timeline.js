@@ -41,7 +41,7 @@ export default [
     date: "7 May 2021",
     title: "Server Side SDKs",
     description: "Write in Javascript, Dart, Python, PHP, and more!",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-server-side-sdks-24di",
   },
   {
     date: "8 May 2021",
