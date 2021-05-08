@@ -47,7 +47,7 @@ export default [
     date: "8 May 2021",
     title: "Accounts & Users API",
     description: "Learn how to implement users and authorization in your app.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-accounts-users-api-4592",
   },
   {
     date: "9 May 2021",
