@@ -53,7 +53,7 @@ export default [
     date: "9 May 2021",
     title: "Login and Signup",
     description: "We’ll start building our demo blog with user authentication.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-login-and-signup-2957",
   },
   {
     date: "10 May 2021",
