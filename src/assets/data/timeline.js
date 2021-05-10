@@ -60,7 +60,7 @@ export default [
     title: "OAuth Providers",
     description:
       "Allow your users to login with their favorite OAuth provider.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-oauth-providers-3jf6",
   },
   {
     date: "11 May 2021",
