@@ -64,9 +64,9 @@ export default [
   },
   {
     date: "11 May 2021",
-    title: "SMTP",
+    title: "Getting Started with SMTP",
     description: "Integrate Appwrite with any email API service.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-getting-started-with-smtp-1e2e",
   },
   {
     date: "12 May 2021",
