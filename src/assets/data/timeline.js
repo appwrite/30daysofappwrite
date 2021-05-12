@@ -72,7 +72,7 @@ export default [
     date: "12 May 2021",
     title: "Email Verification and Forgot Password",
     description: "Building a more user-friendly login experience.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-email-verification-and-forgot-password-420o",
   },
   {
     date: "13 May 2021",
