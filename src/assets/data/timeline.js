@@ -78,7 +78,7 @@ export default [
     date: "13 May 2021",
     title: "Appwrite Teams",
     description: "How to organize your users into groups.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-teams-2fjd",
   },
   {
     date: "14 May 2021",
