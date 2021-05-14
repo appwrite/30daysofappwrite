@@ -94,32 +94,32 @@ export default [
   },
   {
     date: "16 May 2021",
-    title: "Database Day #2",
+    title: "Database Design 🧐",
     description:
-      "We’re going to finish databases today!",
+      "Planning and designing our collections",
     link: "",
   },
   {
     date: "17 May 2021",
-    title: "Database Day #3",
-    description: "I think I spoke too soon. I promise this is going to be the last day 😅",
+    title: "Create User Profiles",
+    description: "Let’s create a user profile using the Database API",
     link: "",
   },
   {
     date: "18 May 2021",
+    title: "Create Blog Posts",
+    description: "Allow users to create blog posts in our demo app.",
+    link: "",
+  },
+  {
+    date: "19 May 2021",
     title: "Appwrite Storage API",
     description: "Storing more than just database records.",
     link: "",
   },
   {
-    date: "19 May 2021",
-    title: "File Uploads",
-    description: "Our demo blog gets upload support",
-    link: "",
-  },
-  {
     date: "20 May 2021",
-    title: "File downloads",
+    title: "File uploads and downloads",
     description: "A picture speaks a thousand words.",
     link: "",
   },
