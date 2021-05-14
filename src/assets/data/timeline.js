@@ -84,7 +84,7 @@ export default [
     date: "14 May 2021",
     title: "Using Team Invites",
     description: "Send out email invites to your new teams.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-using-team-invites-gk1",
   },
   {
     date: "15 May 2021",
