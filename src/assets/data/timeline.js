@@ -90,7 +90,7 @@ export default [
     date: "15 May 2021",
     title: "Appwrite Database",
     description: "What’s an app without a Database!",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-database-22an",
   },
   {
     date: "16 May 2021",
