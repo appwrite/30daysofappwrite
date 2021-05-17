@@ -97,7 +97,7 @@ export default [
     title: "Database Design 🧐",
     description:
       "Planning and designing our collections",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-database-design-140a",
   },
   {
     date: "17 May 2021",
