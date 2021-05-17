@@ -103,7 +103,7 @@ export default [
     date: "17 May 2021",
     title: "Create User Profiles",
     description: "Let’s create a user profile using the Database API",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-create-user-profiles-1c3m",
   },
   {
     date: "18 May 2021",
