@@ -109,7 +109,7 @@ export default [
     date: "18 May 2021",
     title: "Create Blog Posts",
     description: "Allow users to create blog posts in our demo app.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-create-blog-posts-31fi",
   },
   {
     date: "19 May 2021",
