@@ -115,7 +115,7 @@ export default [
     date: "19 May 2021",
     title: "Appwrite Storage API",
     description: "Storing more than just database records.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm",
   },
   {
     date: "20 May 2021",
