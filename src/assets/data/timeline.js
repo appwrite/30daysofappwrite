@@ -121,7 +121,7 @@ export default [
     date: "20 May 2021",
     title: "File uploads and downloads",
     description: "A picture speaks a thousand words.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-file-uploads-and-downloads-1dld",
   },
   {
     date: "21 May 2021",
