@@ -127,7 +127,7 @@ export default [
     date: "21 May 2021",
     title: "Appwrite Avatars API",
     description: "Sharing is caring.",
-    link: "https://dev.to/christyjacob4/30daysofappwrite-appwrite-avatars-api-epi",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-avatars-api-epi",
   },
   {
     date: "22 May 2021",
