@@ -115,19 +115,19 @@ export default [
     date: "19 May 2021",
     title: "Appwrite Storage API",
     description: "Storing more than just database records.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-storage-api-hgm",
   },
   {
     date: "20 May 2021",
     title: "File uploads and downloads",
     description: "A picture speaks a thousand words.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-file-uploads-and-downloads-1dld",
   },
   {
     date: "21 May 2021",
     title: "Appwrite Avatars API",
     description: "Sharing is caring.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-avatars-api-epi",
   },
   {
     date: "22 May 2021",
