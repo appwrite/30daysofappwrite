@@ -134,7 +134,7 @@ export default [
     title: "Appwrite CLI",
     description:
       "Did you just think you could build an app without using a CLI ?",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-cli-2mde",
   },
   {
     date: "23 May 2021",
