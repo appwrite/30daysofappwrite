@@ -140,7 +140,7 @@ export default [
     date: "23 May 2021",
     title: "Appwrite Cloud Functions",
     description: "Learn how Cloud functions can boost your workflow.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-cloud-functions-1pf2",
   },
   {
     date: "24 May 2021",
