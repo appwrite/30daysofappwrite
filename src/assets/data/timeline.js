@@ -144,9 +144,9 @@ export default [
   },
   {
     date: "24 May 2021",
-    title: "Cloud functions Day #2",
+    title: "Our First Cloud Function",
     description: "Trigger cloud functions using async events or http requests.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-our-first-cloud-function-59k6",
   },
   {
     date: "25 May 2021",
