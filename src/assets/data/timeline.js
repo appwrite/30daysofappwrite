@@ -150,9 +150,9 @@ export default [
   },
   {
     date: "25 May 2021",
-    title: "Cloud functions Day #3",
+    title: "Cloud Function with CRON",
     description: "You cannot get away without CRON!",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-cloud-function-with-cron-258c",
   },
   {
     date: "26 May 2021",
