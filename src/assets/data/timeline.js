@@ -158,7 +158,7 @@ export default [
     date: "26 May 2021",
     title: "JWT Support in Appwrite",
     description: "JWhaT?",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-jwt-l08",
   },
   {
     date: "27 May 2021",
