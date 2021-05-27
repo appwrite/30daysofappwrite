@@ -164,7 +164,7 @@ export default [
     date: "27 May 2021",
     title: "Appwrite for Production",
     description: "Get ready to go to war ⚔️ with Appwrite.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-appwrite-for-production-56hi",
   },
   {
     date: "28 May 2021",
