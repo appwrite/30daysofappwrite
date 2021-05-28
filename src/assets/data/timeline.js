@@ -170,7 +170,7 @@ export default [
     date: "28 May 2021",
     title: "Docker Swarm Integration",
     description: "The fiercest of enemies may be overcome by a swarm.",
-    link: "",
+    link: "https://dev.to/appwrite/30daysofappwrite-docker-swarm-integration-2io9",
   },
   {
     date: "29 May 2021",
