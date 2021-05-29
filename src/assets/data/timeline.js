@@ -176,7 +176,7 @@ export default [
     date: "29 May 2021",
     title: "Grafana Integration",
     description: "In God we trust. Everyone else must bring data.",
-    link: "",
+    link: "https://dev.to/appwrite/grafana-integration-50p9",
   },
   {
     date: "30 May 2021",
